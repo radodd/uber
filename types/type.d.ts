@@ -86,6 +86,7 @@ declare interface InputFieldProps extends TextInputProps {
   containerStyle?: string;
   inputStyle?: string;
   iconStyle?: string;
+  placeholderTextColor?: string;
   className?: string;
 }
 
